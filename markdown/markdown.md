@@ -330,7 +330,7 @@ cond(no)->op
                     
 ### 绘制序列图 Sequence Diagram
                     
-```seq
+```sequence
 Andrew->China: Says Hello 
 Note right of China: China thinks\nabout it 
 China-->Andrew: How are you? 
